@@ -1,0 +1,10 @@
+c:\users\amador\source\repos\Conversor\Conversor\bin\Debug\Conversor.exe.config
+c:\users\amador\source\repos\Conversor\Conversor\bin\Debug\Conversor.exe
+c:\users\amador\source\repos\Conversor\Conversor\bin\Debug\Conversor.pdb
+c:\users\amador\source\repos\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+c:\users\amador\source\repos\Conversor\Conversor\obj\Debug\Conversor.Form1.resources
+c:\users\amador\source\repos\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+c:\users\amador\source\repos\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+c:\users\amador\source\repos\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+c:\users\amador\source\repos\Conversor\Conversor\obj\Debug\Conversor.exe
+c:\users\amador\source\repos\Conversor\Conversor\obj\Debug\Conversor.pdb
